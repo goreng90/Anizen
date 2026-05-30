@@ -1,0 +1,464 @@
+{
+  "featured": [
+    {
+      "id": 1,
+      "title": "Attack on Titan",
+      "title_jp": "Shingeki no Kyojin",
+      "genre": ["Action", "Drama", "Fantasy"],
+      "rating": 9.0,
+      "year": 2013,
+      "status": "Completed",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg",
+      "banner": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg",
+      "description": "Humanity lives inside cities surrounded by enormous walls protecting them from Titans, gigantic humanoid creatures who devour humans seemingly without reason. Eren Yeager joins the Scout Regiment after his hometown is attacked.",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {"ep": 1, "title": "To You, 2000 Years From Now", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 2, "title": "That Day: The Fall of Zhiganshina", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 3, "title": "A Dim Light Amid Despair", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 4, "title": "The Night of the Closing Ceremony", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 5, "title": "First Battle", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 6, "title": "The World the Girl Saw", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 7, "title": "Small Blade", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 8, "title": "I Can Hear His Heartbeat", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 9, "title": "Whereabouts of His Left Arm", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 10, "title": "Response", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 11, "title": "Idol", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 12, "title": "Wound", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 13, "title": "Primal Desire", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 14, "title": "Can't Look into His Eyes Yet", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 15, "title": "Special Operations Squad", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 16, "title": "What Needs to Be Done Now", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 17, "title": "Female Titan", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 18, "title": "Forest of Giant Trees", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 19, "title": "Bite", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 20, "title": "Erwin Smith", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 21, "title": "Crushing Blow", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 22, "title": "The Defeated", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 23, "title": "Smile", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 24, "title": "Mercy", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 25, "title": "Wall", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"}
+          ]
+        },
+        {
+          "season": 2,
+          "episodes": [
+            {"ep": 1, "title": "Beast Titan", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 2, "title": "I'm Home", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 3, "title": "Southwestward", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 4, "title": "Soldier", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 5, "title": "Historia", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 6, "title": "Warrior", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 7, "title": "Close Combat", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 8, "title": "The Hunter", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 9, "title": "Opening", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 10, "title": "Children", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 11, "title": "Charge", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 12, "title": "Scream", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"}
+          ]
+        },
+        {
+          "season": 3,
+          "episodes": [
+            {"ep": 1, "title": "Smoke Signal", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 2, "title": "Pain", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 3, "title": "Old Story", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 4, "title": "Trust", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 5, "title": "Reply", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 6, "title": "Sin", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 7, "title": "Wish", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 8, "title": "Outside the Walls of Orvud District", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 9, "title": "Ruler of the Walls", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 10, "title": "Friends", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 11, "title": "Bystander", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 12, "title": "Ignorance", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 13, "title": "The Town Where Everything Began", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 14, "title": "Thunder Spears", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 15, "title": "Descent", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 16, "title": "Illusion", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 17, "title": "Hero", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 18, "title": "Midnight Sun", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 19, "title": "The Basement", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 20, "title": "That Day", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 21, "title": "Attack Titan", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 22, "title": "Alone", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"}
+          ]
+        },
+        {
+          "season": 4,
+          "episodes": [
+            {"ep": 1, "title": "The Other Side of the Sea", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 2, "title": "Midnight Train", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 3, "title": "The Door of Hope", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 4, "title": "From One Hand to Another", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 5, "title": "Declaration of War", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 6, "title": "The War Hammer Titan", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 7, "title": "Assault", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 8, "title": "Assassin's Bullet", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 9, "title": "Brave Volunteers", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 10, "title": "A Sound Argument", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 11, "title": "Deceiver", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 12, "title": "Guides", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 13, "title": "Children of the Forest", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 14, "title": "Savagery", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 15, "title": "Sole Salvation", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 16, "title": "Above and Below", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 17, "title": "Judgment", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 18, "title": "Sneak Attack", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 19, "title": "Two Brothers", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 20, "title": "Memories of the Future", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 21, "title": "From You, 2000 Years Ago", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 22, "title": "Thaw", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 23, "title": "Sunset", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 24, "title": "Pride", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 25, "title": "Night of the End", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 26, "title": "Traitor", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 27, "title": "Retrospective", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 28, "title": "The Dawn of Humanity", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 29, "title": "The Rumbling", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"},
+            {"ep": 30, "title": "Towards the Tree on That Hill", "duration": "24 min", "embed": "https://www.youtube.com/embed/MGRm4IzK1SQ"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Demon Slayer",
+      "title_jp": "Kimetsu no Yaiba",
+      "genre": ["Action", "Supernatural", "Historical"],
+      "rating": 8.7,
+      "year": 2019,
+      "status": "Ongoing",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
+      "description": "Tanjiro Kamado, a kind-hearted boy who sells charcoal, has his family slaughtered by a demon while his sister Nezuko is turned into one. He joins the Demon Slayer Corps to find a cure and avenge his family.",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {"ep": 1, "title": "Cruelty", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 2, "title": "Trainer Sakonji Urokodaki", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 3, "title": "Sabito and Makomo", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 4, "title": "Final Selection", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 5, "title": "My Own Steel", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 6, "title": "Swordsman Accompanying a Demon", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 7, "title": "Muzan Kibutsuji", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 8, "title": "The Smell of Enchanting Blood", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 9, "title": "Temari Demon and Arrow Demon", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 10, "title": "Together Forever", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 11, "title": "Tsuzumi Mansion", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 12, "title": "The Boar Bares Its Fangs, Zenitsu Sleeps", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 13, "title": "Something More Important Than Life", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 14, "title": "The House with the Wisteria Family Crest", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 15, "title": "Mount Natagumo", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 16, "title": "Letting Someone Else Go First", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 17, "title": "You Must Master a Single Thing", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 18, "title": "A Forged Bond", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 19, "title": "Hinokami", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 20, "title": "Pretend Family", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 21, "title": "Against Corps Rules", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 22, "title": "Master of the Mansion", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 23, "title": "Hashira Meeting", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 24, "title": "Rehabilitation Training", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 25, "title": "Tsuguko, Kanao Tsuyuri", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 26, "title": "New Mission", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"}
+          ]
+        },
+        {
+          "season": 2,
+          "episodes": [
+            {"ep": 1, "title": "Flame Hashira Kyojuro Rengoku", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 2, "title": "Deep Sleep", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 3, "title": "Akaza", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 4, "title": "Insult", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 5, "title": "Move Forward!", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 6, "title": "Akaza's Swordsmanship", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 7, "title": "Set Your Heart Ablaze", "duration": "44 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 8, "title": "Sound Hashira Tengen Uzui", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 9, "title": "Infiltrating the Entertainment District", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 10, "title": "What Are You?", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 11, "title": "Tonight", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 12, "title": "Things Are Gonna Get Real Flashy!!", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 13, "title": "Transformation", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 14, "title": "Stone Hashira Gyomei Himejima", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 15, "title": "Gathering", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 16, "title": "Defeating an Upper Rank Demon", "duration": "44 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 17, "title": "Never Give Up", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 18, "title": "Layered Memories", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"}
+          ]
+        },
+        {
+          "season": 3,
+          "episodes": [
+            {"ep": 1, "title": "Someone's Dream", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 2, "title": "Yoriichi Type Zero", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 3, "title": "A Sword from Over 300 Years Ago", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 4, "title": "Thank You, Tokito", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 5, "title": "Bright Red Sword", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 6, "title": "Aren't You Glad You Came?", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 7, "title": "Awful Villain", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 8, "title": "The Mu in Muichiro", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 9, "title": "Mist Breathing, Seventh Form: Obscuring Clouds", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 10, "title": "Love Hashira Mitsuri Kanroji", "duration": "23 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"},
+            {"ep": 11, "title": "A Connected Bond: Daybreak and First Light", "duration": "50 min", "embed": "https://www.youtube.com/embed/VQGCKyvzIM4"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Naruto Shippuden",
+      "title_jp": "Naruto: Shippuden",
+      "genre": ["Action", "Adventure", "Martial Arts"],
+      "rating": 8.7,
+      "year": 2007,
+      "status": "Completed",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1565/111305l.jpg",
+      "description": "Two and a half years have passed since Naruto Uzumaki left Konohagakure. Now he is back, stronger than ever, to continue his mission to become Hokage.",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {"ep": 1, "title": "Homecoming", "duration": "23 min", "embed": "https://www.youtube.com/embed/Z-dBMJRFIiw"},
+            {"ep": 2, "title": "The Akatsuki Makes Its Move", "duration": "23 min", "embed": "https://www.youtube.com/embed/Z-dBMJRFIiw"},
+            {"ep": 3, "title": "The Results of Training", "duration": "23 min", "embed": "https://www.youtube.com/embed/Z-dBMJRFIiw"},
+            {"ep": 4, "title": "The Jinchuriki of the Sand", "duration": "23 min", "embed": "https://www.youtube.com/embed/Z-dBMJRFIiw"},
+            {"ep": 5, "title": "The Kazekage Stands Tall", "duration": "23 min", "embed": "https://www.youtube.com/embed/Z-dBMJRFIiw"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "One Piece",
+      "title_jp": "One Piece",
+      "genre": ["Action", "Adventure", "Comedy"],
+      "rating": 9.1,
+      "year": 1999,
+      "status": "Ongoing",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/6/73245l.jpg",
+      "description": "Monkey D. Luffy sets off on a voyage from the East Blue Sea to find the legendary treasure, the One Piece, and proclaim himself the King of the Pirates.",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {"ep": 1, "title": "I'm Luffy! The Man Who Will Become the Pirate King!", "duration": "23 min", "embed": "https://www.youtube.com/embed/MCo5MSD_q60"},
+            {"ep": 2, "title": "The Great Swordsman Appears! Pirate Hunter, Roronoa Zoro!", "duration": "23 min", "embed": "https://www.youtube.com/embed/MCo5MSD_q60"},
+            {"ep": 3, "title": "Morgan versus Luffy! Who's the Mysterious Pretty Girl?", "duration": "23 min", "embed": "https://www.youtube.com/embed/MCo5MSD_q60"},
+            {"ep": 4, "title": "Luffy's Past! The Red-Haired Shanks Appears!", "duration": "23 min", "embed": "https://www.youtube.com/embed/MCo5MSD_q60"},
+            {"ep": 5, "title": "Fear, Mysterious Power! Pirate Clown Captain Buggy!", "duration": "23 min", "embed": "https://www.youtube.com/embed/MCo5MSD_q60"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "title_jp": "Hagane no Renkinjutsushi",
+      "genre": ["Action", "Drama", "Fantasy"],
+      "rating": 9.1,
+      "year": 2009,
+      "status": "Completed",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1223/96541l.jpg",
+      "description": "Two brothers search for a Philosopher's Stone after an attempt to revive their deceased mother goes wrong, leaving them in damaged physical forms.",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {"ep": 1, "title": "Fullmetal Alchemist", "duration": "24 min", "embed": "https://www.youtube.com/embed/--IcmZkvL0Q"},
+            {"ep": 2, "title": "The First Day", "duration": "24 min", "embed": "https://www.youtube.com/embed/--IcmZkvL0Q"},
+            {"ep": 3, "title": "City of Heresy", "duration": "24 min", "embed": "https://www.youtube.com/embed/--IcmZkvL0Q"},
+            {"ep": 4, "title": "An Alchemist's Anguish", "duration": "24 min", "embed": "https://www.youtube.com/embed/--IcmZkvL0Q"},
+            {"ep": 5, "title": "Rain of Sorrows", "duration": "24 min", "embed": "https://www.youtube.com/embed/--IcmZkvL0Q"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Death Note",
+      "title_jp": "Death Note",
+      "genre": ["Mystery", "Thriller", "Psychological"],
+      "rating": 9.0,
+      "year": 2006,
+      "status": "Completed",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/9/9453l.jpg",
+      "description": "Light Yagami is a brilliant high school student who discovers a supernatural notebook that grants its user the ability to kill anyone whose name is written in it.",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {"ep": 1, "title": "Rebirth", "duration": "23 min", "embed": "https://www.youtube.com/embed/NlJZ-YgAt-c"},
+            {"ep": 2, "title": "Confrontation", "duration": "23 min", "embed": "https://www.youtube.com/embed/NlJZ-YgAt-c"},
+            {"ep": 3, "title": "Dealings", "duration": "23 min", "embed": "https://www.youtube.com/embed/NlJZ-YgAt-c"},
+            {"ep": 4, "title": "Pursuit", "duration": "23 min", "embed": "https://www.youtube.com/embed/NlJZ-YgAt-c"},
+            {"ep": 5, "title": "Tactics", "duration": "23 min", "embed": "https://www.youtube.com/embed/NlJZ-YgAt-c"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Jujutsu Kaisen",
+      "title_jp": "Jujutsu Kaisen",
+      "genre": ["Action", "Supernatural", "Horror"],
+      "rating": 8.8,
+      "year": 2020,
+      "status": "Ongoing",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg",
+      "description": "Yuji Itadori, a high school student, swallows a cursed talisman — the finger of Sukuna, a demon — to protect his friends. Now cursed himself, he must fight demons alongside jujutsu sorcerers.",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {"ep": 1, "title": "Ryomen Sukuna", "duration": "23 min", "embed": "https://www.youtube.com/embed/pkKu9hLT-t8"},
+            {"ep": 2, "title": "For Myself", "duration": "23 min", "embed": "https://www.youtube.com/embed/pkKu9hLT-t8"},
+            {"ep": 3, "title": "Girl of Steel", "duration": "23 min", "embed": "https://www.youtube.com/embed/pkKu9hLT-t8"},
+            {"ep": 4, "title": "Curse Womb Must Die", "duration": "23 min", "embed": "https://www.youtube.com/embed/pkKu9hLT-t8"},
+            {"ep": 5, "title": "Curse Womb Must Die -II-", "duration": "23 min", "embed": "https://www.youtube.com/embed/pkKu9hLT-t8"}
+          ]
+        },
+        {
+          "season": 2,
+          "episodes": [
+            {"ep": 1, "title": "It's Like That", "duration": "23 min", "embed": "https://www.youtube.com/embed/pkKu9hLT-t8"},
+            {"ep": 2, "title": "Hidden Inventory", "duration": "23 min", "embed": "https://www.youtube.com/embed/pkKu9hLT-t8"},
+            {"ep": 3, "title": "Hidden Inventory 2", "duration": "23 min", "embed": "https://www.youtube.com/embed/pkKu9hLT-t8"},
+            {"ep": 4, "title": "Hidden Inventory 3", "duration": "23 min", "embed": "https://www.youtube.com/embed/pkKu9hLT-t8"},
+            {"ep": 5, "title": "Hidden Inventory 4", "duration": "23 min", "embed": "https://www.youtube.com/embed/pkKu9hLT-t8"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Hunter x Hunter",
+      "title_jp": "Hunter x Hunter (2011)",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "rating": 9.0,
+      "year": 2011,
+      "status": "Completed",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/11/33657l.jpg",
+      "description": "Gon Freecss aspires to become a Hunter, a special class of person with a license to go anywhere, do almost anything. He sets out to find his father, who left him when he was young.",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {"ep": 1, "title": "Departure x And x Friends", "duration": "23 min", "embed": "https://www.youtube.com/embed/D7GjTaLiGcQ"},
+            {"ep": 2, "title": "Test x Of x Tests", "duration": "23 min", "embed": "https://www.youtube.com/embed/D7GjTaLiGcQ"},
+            {"ep": 3, "title": "Rivals x For x Survival", "duration": "23 min", "embed": "https://www.youtube.com/embed/D7GjTaLiGcQ"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Bleach",
+      "title_jp": "Bleach",
+      "genre": ["Action", "Supernatural", "Adventure"],
+      "rating": 8.1,
+      "year": 2004,
+      "status": "Ongoing",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/3/40451l.jpg",
+      "description": "Ichigo Kurosaki, a teenager with the ability to see ghosts, gains the powers of a Soul Reaper from Rukia Kuchiki after she is injured in battle.",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {"ep": 1, "title": "The Day I Became a Shinigami", "duration": "23 min", "embed": "https://www.youtube.com/embed/6Rr6oVkIGOM"},
+            {"ep": 2, "title": "A Shinigami's Work", "duration": "23 min", "embed": "https://www.youtube.com/embed/6Rr6oVkIGOM"},
+            {"ep": 3, "title": "The Older Brother's Wish, the Younger Sister's Wish", "duration": "23 min", "embed": "https://www.youtube.com/embed/6Rr6oVkIGOM"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "My Hero Academia",
+      "title_jp": "Boku no Hero Academia",
+      "genre": ["Action", "Comedy", "Superhero"],
+      "rating": 8.0,
+      "year": 2016,
+      "status": "Completed",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg",
+      "description": "In a world where most people have superpowers called Quirks, Izuku Midoriya is born without one. Despite this, he still dreams of becoming a superhero.",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {"ep": 1, "title": "Izuku Midoriya: Origin", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep0"},
+            {"ep": 2, "title": "What It Takes to Be a Hero", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep0"},
+            {"ep": 3, "title": "Roaring Muscles", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep0"},
+            {"ep": 4, "title": "Start Line", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep0"},
+            {"ep": 5, "title": "What I Can Do for Now", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep0"},
+            {"ep": 6, "title": "Rage, You Damn Nerd", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep0"},
+            {"ep": 7, "title": "Deku vs. Kacchan", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep0"},
+            {"ep": 8, "title": "Bakugo's Start Line", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep0"},
+            {"ep": 9, "title": "Yeah, Just Do Your Best, Iida!", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep0"},
+            {"ep": 10, "title": "Encounter with the Unknown", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep0"},
+            {"ep": 11, "title": "Game Over", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep0"},
+            {"ep": 12, "title": "All Might", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep0"},
+            {"ep": 13, "title": "In Each of Our Hearts", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep0"}
+          ]
+        },
+        {
+          "season": 2,
+          "episodes": [
+            {"ep": 1, "title": "That's the Idea, Ochaco", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep0"},
+            {"ep": 2, "title": "Roaring Sports Festival", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep0"},
+            {"ep": 3, "title": "In Their Own Quirky Ways", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep0"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Steins;Gate",
+      "title_jp": "Steins;Gate",
+      "genre": ["Sci-Fi", "Thriller", "Drama"],
+      "rating": 9.1,
+      "year": 2011,
+      "status": "Completed",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/5/73199l.jpg",
+      "description": "Rintaro Okabe, a self-proclaimed mad scientist, discovers that his 'Phone Microwave' can send text messages to the past, which leads him into a dangerous conspiracy.",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {"ep": 1, "title": "Turning Point", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep1"},
+            {"ep": 2, "title": "Time Travel Paranoia", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep1"},
+            {"ep": 3, "title": "Parallel Process Paranoia", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep1"},
+            {"ep": 4, "title": "Interpreter Rendezvous", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep1"},
+            {"ep": 5, "title": "Stargazing Rendezvous", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep1"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Dragon Ball Z",
+      "title_jp": "Dragon Ball Z",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "rating": 8.7,
+      "year": 1989,
+      "status": "Completed",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1277/142099l.jpg",
+      "description": "Son Goku and his allies defend the Earth against an assortment of villains ranging from intergalactic space fighters and conquerors, to unnaturally powerful androids and artificial life forms.",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {"ep": 1, "title": "The New Threat", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep_dbz"},
+            {"ep": 2, "title": "Reunions", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep_dbz"},
+            {"ep": 3, "title": "Unlikely Alliance", "duration": "23 min", "embed": "https://www.youtube.com/embed/ep_dbz"}
+          ]
+        }
+      ]
+    }
+  ],
+  "categories": ["All", "Action", "Adventure", "Comedy", "Drama", "Fantasy", "Horror", "Mystery", "Romance", "Sci-Fi", "Slice of Life", "Supernatural", "Thriller"],
+  "trending": [1, 2, 7, 5, 6],
+  "new_episodes": [2, 7, 4, 9],
+  "top_rated": [4, 5, 11, 1, 8, 6]
+}
